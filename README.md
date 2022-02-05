@@ -1,6 +1,8 @@
 # T-KEYBOARD
  
-https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=pink&labelColor=black
+
+[![](https://img.shields.io/badge/Contact-Facebook_Page-orange?logo=Facebook&logoColor=blue&labelColor=black)](https://github.com/MarMu-BabyDragon) 
+
 
 ⭐ pkg update -y
 
