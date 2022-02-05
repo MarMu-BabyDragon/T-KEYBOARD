@@ -1,5 +1,7 @@
 # T-KEYBOARD
  
+https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=pink&labelColor=black
+
 ⭐ pkg update -y
 
 ⭐ pkg upgrade-y
@@ -17,5 +19,14 @@
 ⭐ chmod +x *
 
 ⭐ bash keyboard.sh
+
+
+# If You Want To Use This Extra Key? Select 👉 S1
+<img src="IMG_20220205_211004.jpg" alt="BabyDragon_logo" height="205" width="350"> 
+
+
+
+# If You Want To Use This Extra Key? Select 👉 S2
+<img src="IMG_20220205_211304.jpg" alt="hacker_logo" height="205" width="350"> 
 
 
