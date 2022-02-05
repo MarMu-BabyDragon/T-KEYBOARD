@@ -195,9 +195,7 @@ then
 sleep 1
 
 cd $HOME
-
-mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1      
-
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1
 fi
 
 if [ $marmu = S2 ]
@@ -246,7 +244,7 @@ cd $HOME
 
 sleep 0.2
 
-if [ $marmu = 0 ]
+if [ $marmu = y ]
 
 then
 
@@ -254,6 +252,8 @@ sleep 1
 
 cd $HOME
 
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ESC','/','-','HOME','UP','END'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1      
+ 
 exit
 
 fi
